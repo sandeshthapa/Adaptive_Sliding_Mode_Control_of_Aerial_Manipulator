@@ -6,3 +6,12 @@ This code derives the full dynamic model of Aerial Manipulator in Euler Lagrangi
 The reference for the dynamics and control law are below: 
 1. S. Kim, S. Choi, and H. J. Kim, Aerial manipulation using a quadrotor with a two DOF robotic arm, in Proc.
 IEEE/RSJ Int. Conf. Intell. Robots Syst., Nov. 2013, pp. 49904995.
+
+Please run 
+1. Script_AdSMC.m.
+Not this files calls the relevant simulink file. 
+For necssary dynamics and kinematics please review my paper also: 
+A very similar control and dynamics can be found in my paper: Thapa S., Bai H. and Acosta J.A. Cooperative Aerial Load Transport with Force Control. IFAC Workshop on Networked & Autonomous Air & Space Systems, June, 2018
+
+
+
