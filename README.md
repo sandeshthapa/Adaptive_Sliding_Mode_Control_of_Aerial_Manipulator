@@ -11,6 +11,7 @@ Please run
 1. Script_AdSMC.m.
 
 Note this files calls the relevant simulink file. Go through the steps inside to realise what's happening inside the code. 
+
 For necssary dynamics and kinematics please review my paper also: 
 A very similar control and dynamics can be found in my paper: Thapa S., Bai H. and Acosta J.A. Cooperative Aerial Load Transport with Force Control. IFAC Workshop on Networked & Autonomous Air & Space Systems, June, 2018
 
