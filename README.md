@@ -1,7 +1,7 @@
 # Adaptive_Sliding_Mode_Control_of_Aerial_Manipulator
 Adaptive Sliding Mode Control
 
-This code derives the full dynamic model of Aerial Manipulator in Euler Lagrangian form. 
+This code derives the full dynamic model and control of Aerial Manipulator in Euler Lagrangian form. 
 
 The reference for the dynamics and control law are below: 
 1. S. Kim, S. Choi, and H. J. Kim, Aerial manipulation using a quadrotor with a two DOF robotic arm, in Proc.
