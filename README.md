@@ -8,7 +8,9 @@ The reference for the dynamics and control law are below:
 IEEE/RSJ Int. Conf. Intell. Robots Syst., Nov. 2013, pp. 49904995.
 
 Please run 
-1. Script_AdSMC.m.
+```
+Script_AdSMC.m
+```
 
 Note this files calls the relevant simulink file. Go through the steps inside to realise what's happening inside the code. 
 
