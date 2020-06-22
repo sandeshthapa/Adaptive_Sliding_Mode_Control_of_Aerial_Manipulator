@@ -22,7 +22,12 @@ Aerial Maniulator
 ![](https://github.com/sandeshthapa/Adaptive_Sliding_Mode_Control_of_Aerial_Manipulator/blob/master/uav_arm.jpg)
 
 ### Adaptive Sliding Mode Controller
-```math
-SE = \frac{\sigma}{\sqrt{n}}
-```
+![](https://github.com/sandeshthapa/Adaptive_Sliding_Mode_Control_of_Aerial_Manipulator/blob/master/asmc.jpg)
+
+### Postion History 
+![](https://github.com/sandeshthapa/Adaptive_Sliding_Mode_Control_of_Aerial_Manipulator/blob/master/pos_history.jpg)
+
+### Attitude History 
+![](https://github.com/sandeshthapa/Adaptive_Sliding_Mode_Control_of_Aerial_Manipulator/blob/master/attitude_history.jpg)
+
 
