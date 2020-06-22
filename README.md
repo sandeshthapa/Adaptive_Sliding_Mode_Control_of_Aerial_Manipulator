@@ -34,4 +34,7 @@ A very similar control and dynamics can be found in my paper: Thapa S., Bai H. a
 ### Attitude History 
 ![](https://github.com/sandeshthapa/Adaptive_Sliding_Mode_Control_of_Aerial_Manipulator/blob/master/attitude_history.jpg)
 
+### Contact
+thapasandesh1@gmail.com
+
 
