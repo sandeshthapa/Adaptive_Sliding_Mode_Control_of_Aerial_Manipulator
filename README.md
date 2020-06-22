@@ -17,5 +17,12 @@ Note this files calls the relevant simulink file. Go through the steps inside to
 For necssary dynamics and kinematics please review my paper also: 
 A very similar control and dynamics can be found in my paper: Thapa S., Bai H. and Acosta J.A. Cooperative Aerial Load Transport with Force Control. IFAC Workshop on Networked & Autonomous Air & Space Systems, June, 2018
 
+## Results 
+Aerial Maniulator 
+![](https://github.com/sandeshthapa/Adaptive_Sliding_Mode_Control_of_Aerial_Manipulator/blob/master/uav_arm.jpg)
 
+### Adaptive Sliding Mode Controller
+```math
+SE = \frac{\sigma}{\sqrt{n}}
+```
 
