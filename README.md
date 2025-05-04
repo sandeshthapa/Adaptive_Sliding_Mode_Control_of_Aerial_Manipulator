@@ -40,7 +40,8 @@ A very similar control and dynamics can be found in my paper: Thapa S., Bai H. a
 
 
 ### References
-#### https://link.springer.com/book/10.1007/978-1-84628-642-1 
+#### Mark W. Spong, Seth Hutchinson, and M. Vidyasagar, Robot Modeling and Control, Springer, 2006.
+#### Robotics: Modelling, Planning and Control , Bruno Siciliano , Lorenzo Sciavicco, Luigi Villani , Giuseppe Oriolo
 #### S. Kim, S. Choi, and H. J. Kim, Aerial manipulation using a quadrotor with a two DOF robotic arm, in Proc. IEEE/RSJ Int. Conf. Intell. Robots Syst., Nov. 2013, pp. 49904995.
 #### Thapa S., Bai H. and Acosta J.A. Cooperative Aerial Load Transport with Force Control. IFAC Workshop on Networked & Autonomous Air & Space Systems, June, 2018 
 
